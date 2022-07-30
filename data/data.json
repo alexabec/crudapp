@@ -1,0 +1,22 @@
+{
+  "contacts": [
+    {
+      "userId": 1,
+      "full_name": "Amy Whinehouse",
+      "email": "amyw@mail.com",
+      "id": 4
+    },
+    {
+      "userId": 1,
+      "full_name": "Danny Ocean",
+      "email": "ocean12@mail.com",
+      "id": 5
+    },
+    {
+      "userId": 1,
+      "full_name": "Sarah Bechik",
+      "email": "sarah.bechik@gmail.com",
+      "id": 6
+    }
+  ]
+}
